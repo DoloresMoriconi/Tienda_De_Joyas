@@ -1,0 +1,27 @@
+{
+  "name": "tienda-de-joyas",
+  "version": "1.0.0",
+  "description": "desarrollar una API REST de una aplicación cliente para satisfacer las necesidades puntuales de sus usuarios de una forma eficiente, mantenible y eficaz.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "npx nodemon server.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DoloresMoriconi/Tienda_De_Joyas.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Dolores Moriconi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoloresMoriconi/Tienda_De_Joyas/issues"
+  },
+  "homepage": "https://github.com/DoloresMoriconi/Tienda_De_Joyas#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
